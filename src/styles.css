@@ -9,6 +9,13 @@ body {
   background: linear-gradient(to right, #00aaff, #00ff6c);
 }
 
+.title-label {
+  margin-top: 2rem;
+  font-size: 200%;
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+}
+
 .calculator-grid {
   display: grid;
   margin-top: 2rem;
